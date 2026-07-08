@@ -141,187 +141,132 @@ I believe in writing clean, maintainable code while following engineering best p
 > *"Building software that connects intelligence with real-world engineering."*
 ---
 
-# Featured Projects
+---
 
-<details open>
-<summary><b>⚡ Smart EV Charger Monitoring & Protection System</b></summary>
+# 🚀 Featured Projects
 
-### Overview
+<div align="center">
 
-An intelligent IoT-enabled EV charging protection system designed to monitor electrical parameters in real time while ensuring charger safety through automatic fault detection and relay-based protection.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Projects+That+Solve+Real+World+Problems;AI+%7C+IoT+%7C+Automation+%7C+Software+Engineering"/>
 
-The project continuously measures voltage, current, temperature, power consumption, and total energy usage using multiple sensors integrated with an ESP32 microcontroller. Live monitoring is achieved through the Blynk IoT platform, enabling users to remotely supervise charging sessions and receive real-time updates.
+</div>
 
-### Project Details
+---
 
-| Category | Details |
-|----------|----------|
-| **Tech Stack** | ESP32, Arduino IDE, Blynk IoT, ACS712, ZMPT101B, LM35 |
-| **Architecture** | Embedded IoT Monitoring System |
-| **Scale** | Multi-Sensor Real-Time Monitoring |
-| **Performance** | Live Electrical Parameter Tracking |
-| **Security** | Automatic Relay-Based Fault Protection |
-| **Impact** | Improved EV Charging Safety & Remote Monitoring |
+## ⚡ Smart EV Charger Monitoring & Protection System
 
-### Key Features
+<p align="center">
 
-- Real-time Voltage Monitoring
-- Current Measurement
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C2BD9,100:4338CA&height=120&section=header&text=Smart%20EV%20Charging%20System&fontColor=ffffff&fontSize=30"/>
+
+</p>
+
+| | |
+|:-|:-|
+| 🚀 **Tech Stack** | ESP32 • Arduino • Blynk • ACS712 • ZMPT101B • LM35 |
+| 🏗 Architecture | IoT Embedded System |
+| ⚡ Features | Real-time Monitoring • Fault Detection • Relay Protection |
+| 📈 Status | Completed |
+| ⭐ Impact | Smart & Safe EV Charging |
+
+<details>
+<summary><b>View Details</b></summary>
+
+- Live Voltage Monitoring
+- Current Monitoring
 - Temperature Monitoring
-- Power & Energy Calculation
-- Automatic Overload Protection
-- Relay-Based Safety Shutdown
-- Remote Mobile Dashboard
-- Live IoT Monitoring
-- Sensor Data Visualization
-- Efficient Energy Management
-
-### Engineering Highlights
-
-- Designed embedded firmware using ESP32
-- Integrated multiple analog sensors
-- Developed scalable monitoring architecture
-- Reduced manual inspection requirements
-- Built modular sensor interface
-- Implemented automatic protection logic
-
-### Repository
-
-```text
-https://github.com/Samarth2624
-```
+- Energy Calculation
+- Remote Dashboard
+- Automatic Protection
+- IoT Integration
+- ESP32 Firmware
 
 </details>
 
 ---
 
+## 🏭 Box Lift Automation
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,100:6366F1&height=120&section=header&text=Industrial%20Automation&fontColor=ffffff&fontSize=30"/>
+
+</p>
+
+| | |
+|:-|:-|
+| 🚀 Tech | PLC • HMI • Automation Studio |
+| 🏗 Domain | Industrial Automation |
+| ⚡ Features | Conveyor • Lift Control • Digital Twin |
+| 📈 Status | Completed |
+
 <details>
-<summary><b>🏭 Box Lift Automation System</b></summary>
+<summary><b>View Details</b></summary>
 
-### Overview
-
-Designed and implemented an industrial box handling automation system using B&R Automation Studio with dual conveyor control, automated lift mechanism, PLC programming, and an interactive Human Machine Interface (HMI).
-
-The project simulates a real industrial production line where boxes are transferred between conveyors using automated lift control while minimizing manual intervention.
-
-### Project Details
-
-| Category | Details |
-|----------|----------|
-| **Tech Stack** | PLC, B&R Automation Studio, HMI, iPhysics |
-| **Architecture** | Industrial Automation System |
-| **Scale** | Dual Conveyor Automated System |
-| **Performance** | Optimized Material Handling |
-| **Reliability** | Industrial PLC Logic |
-| **Impact** | Reduced Manual Operations |
-
-### Key Features
-
-- Dual Conveyor Automation
-- Lift Control Logic
 - PLC Programming
-- Industrial HMI Design
-- Automated Box Transfer
-- Real-Time System Monitoring
-- Process Optimization
-- Digital Twin Simulation
-
-### Engineering Highlights
-
-- Developed PLC ladder logic
-- Built industrial HMI interface
-- Simulated complete production workflow
-- Implemented automation safety logic
-- Improved operational efficiency
-
-### Repository
-
-```text
-https://github.com/Samarth2624
-```
+- HMI Design
+- Digital Twin
+- Conveyor Logic
+- Industrial Automation
+- Lift Control
 
 </details>
 
 ---
 
+## 🤟 Smart Glove
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=120&section=header&text=Smart%20Glove&fontColor=ffffff&fontSize=30"/>
+
+</p>
+
+| | |
+|:-|:-|
+| 🚀 Tech | ESP32 • Flex Sensors |
+| 🏗 Domain | Embedded Systems |
+| ⚡ Features | Gesture Recognition |
+| 📈 Status | Completed |
+
 <details>
-<summary><b>🤟 Smart Glove — Sign Language Detection</b></summary>
+<summary><b>View Details</b></summary>
 
-### Overview
-
-An assistive technology project aimed at bridging the communication gap between speech-impaired individuals and others by recognizing hand gestures using flex sensors and an ESP32 microcontroller.
-
-The glove captures finger movements and converts them into predefined sign language outputs, enabling easier communication through embedded intelligence.
-
-### Project Details
-
-| Category | Details |
-|----------|----------|
-| **Tech Stack** | ESP32, Arduino IDE, Flex Sensors |
-| **Architecture** | Embedded Gesture Recognition |
-| **Scale** | Wearable IoT Device |
-| **Performance** | Real-Time Gesture Detection |
-| **Reliability** | Sensor-Based Recognition |
-| **Impact** | Assistive Communication Technology |
-
-### Key Features
-
-- Gesture Recognition
-- Flex Sensor Integration
-- ESP32 Programming
-- Wearable Embedded Device
-- Low Power Design
-- Real-Time Processing
-- Portable Architecture
-
-### Engineering Highlights
-
-- Embedded firmware development
-- Hardware integration
-- Sensor calibration
-- Gesture processing logic
-- System optimization
-
-### Repository
-
-```text
-https://github.com/Samarth2624
-```
+- Sign Language Detection
+- Wearable Device
+- Sensor Integration
+- Embedded Firmware
 
 </details>
 
 ---
 
+## 📊 Data Science Projects
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:6C2BD9&height=120&section=header&text=Data%20Science&fontColor=ffffff&fontSize=30"/>
+
+</p>
+
+| | |
+|:-|:-|
+| 🚀 Tech | Python • Pandas • NumPy • SQL |
+| 📈 Focus | Data Cleaning • Analytics • Visualization |
+| ⭐ Status | Completed |
+
 <details>
-<summary><b>📊 Data Science & Analytics Projects</b></summary>
-
-### Overview
-
-Completed multiple hands-on data science projects during the Shadowfox Data Science Internship involving data preprocessing, visualization, statistical analysis, and machine learning workflows.
-
-These projects focused on transforming raw datasets into meaningful business insights through analytical thinking and data-driven decision making.
-
-### Project Details
-
-| Category | Details |
-|----------|----------|
-| **Tech Stack** | Python, Pandas, NumPy, Matplotlib, SQL |
-| **Domain** | Data Science |
-| **Scale** | Multiple Analytical Projects |
-| **Performance** | Efficient Data Processing |
-| **Focus** | Business Insights |
-| **Impact** | Data-Driven Decision Making |
-
-### Key Features
+<summary><b>View Details</b></summary>
 
 - Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis
-- Statistical Modeling
-- Feature Engineering
-- Data Transformation
-- Report Generation
-- Analytical Dashboards
+- EDA
+- Visualization
+- Statistical Analysis
+- Business Insights
+
+</details>
+
+---
 
 ### Engineering Highlights
 
